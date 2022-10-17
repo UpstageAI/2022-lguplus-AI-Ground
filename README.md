@@ -9,6 +9,8 @@
 > LG유플러스 아이들나라 콘텐츠 추천 데이터셋 및 베이스라인 코드 제공 <br>
 
 <br>
+[![AI Ground  홍보 영상 썸네일_로고수정](https://user-images.githubusercontent.com/99661561/196114406-48d27b6c-06e3-4be6-9cee-f01463e0259d.png)](https://www.youtube.com/watch?v=U96hUMFNW8A)
+<br>
 
 ## 유플러스 AI Ground로 여러분을 초대합니다! <br>
 AI Ground는 일상을 즐겁게 바꿀 수 있는 새로운 가치, 창의적인 AI 모델을 발굴하고자 <br>

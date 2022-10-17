@@ -10,6 +10,10 @@
 
 <br>
 
+[![AI Ground  홍보 영상 썸네일_로고수정](https://user-images.githubusercontent.com/99661561/196115844-5e979322-3def-49c3-816d-300fb574f084.png)](https://www.youtube.com/watch?v=U96hUMFNW8A)
+
+<br>
+
 ## 유플러스 AI Ground로 여러분을 초대합니다! <br>
 AI Ground는 일상을 즐겁게 바꿀 수 있는 새로운 가치, 창의적인 AI 모델을 발굴하고자 <br>
 딥러닝, 머신러닝 개발에 관심있는 누구나 참여 할 수 있는 AI 경진대회 입니다. <br> 
